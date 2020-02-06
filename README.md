@@ -1,2 +1,2 @@
 # ML-Model
-My github testing model
+My github testing model for machine learning testing environment...
